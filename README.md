@@ -39,7 +39,3 @@ Before running this project locally, ensure you have the following installed:
 - Use the provided API endpoints to perform CRUD operations on exam data:
   - `/api/exams` - GET all exams, POST a new exam, DELETE all exams.
   - `/api/exams/{examId}` - GET, PUT, or DELETE a specific exam by ID.
-
-## Contributing
-
-Contributions are welcome! If you'd like to enhance this project or report issues, please submit a pull request or open an issue.
