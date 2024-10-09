@@ -59,15 +59,6 @@ const Contact = () => {
                                     <br/>I value open communication and welcome any inquiries, feedback, or collaboration opportunities. Please don't hesitate to get in touch with me by filling out the contact form, especially if you find any errors!
                                     <br/>
                                     <br/>
-                                    <a target = "_blank" rel = "noreferrer" href = "https://www.linkedin.com/in/erik-cupsa/">
-                                        <FontAwesomeIcon icon={faLinkedin}  class = "icon" color = "#4d4d4e" />
-                                    </a>
-                                    <a target = "_blank" rel = "noreferrer" href = "mailto:ErikCupsa@gmail.com">
-                                        <FontAwesomeIcon icon={faEnvelope} class = "icon" color = "#4d4d4e" />
-                                    </a>
-                                    <a target = "_blank" rel = "noreferrer" href = "https://github.com/Erik-Cupsa">
-                                        <FontAwesomeIcon icon={faGithub} class = "icon" color = "#4d4d4e" />
-                                    </a>
                                 </h2>
                             </td>
                             <td className="right-side">

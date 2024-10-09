@@ -6,7 +6,7 @@ import Logo from "./Logo";
 const Home = () => {
     const [letterClass, setLetterClass] = useState("text-animate")
     const welcomeArray1 = "Welcome To".split("");
-    const welcomeArray2 = "McGill Exam Scheduler!".split("");
+    const welcomeArray2 = "Carleton Exam Scheduler!".split("");
     
     useEffect(() => {
         const timerId = setTimeout(() => {
